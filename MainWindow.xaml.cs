@@ -489,5 +489,5 @@ namespace PROG_PART_3
         }
 
         #endregion
-    }
-}
+    }//end of class
+}//end of namespace
