@@ -28,5 +28,5 @@ namespace PROG_PART_3
                 Console.WriteLine("Error playing sound: " + ex.Message);
             }
         }
-    }
-}
+    }//end of class
+}//end of name space
