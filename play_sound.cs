@@ -19,7 +19,7 @@ namespace PROG_PART_3
                 // Play the audio file
                 using (SoundPlayer player = new SoundPlayer(fullPath))
                 {
-                    player.Play(); // Non-blocking for GUI apps
+                    player.Play(); 
                 }
             }
             catch (Exception ex)
